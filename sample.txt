@@ -1,0 +1,4 @@
+HEllo all 
+lets develope a Python project
+app.py can be thge name
+
